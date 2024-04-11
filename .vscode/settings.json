@@ -1,0 +1,12 @@
+{
+  "markdown.preview.scrollPreviewWithEditor": false,
+  "cSpell.words": [
+    "midwayjs",
+    "Wechat",
+    "WEIXIN"
+  ],
+  "[typescript]": {
+    "editor.formatOnSave": true
+},
+"typescript.tsdk": "node_modules/typescript/lib",
+}
